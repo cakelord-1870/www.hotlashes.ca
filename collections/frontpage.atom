@@ -1,0 +1,2399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.hotlashes.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.hotlashes.ca/collections/frontpage.atom"/>
+  <title>Hotlashes Eyelash Extension Supplies &amp; Training</title>
+  <updated>2020-07-19T10:28:19-11:00</updated>
+  <author>
+    <name>Hotlashes Eyelash Extension Supplies &amp; Training</name>
+  </author>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575800721495</id>
+    <published>2020-07-19T10:28:19-11:00</published>
+    <updated>2020-07-19T10:28:19-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/adhesive-primer"/>
+    <title>Adhesive Solutions: Primer</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_c8415c01-abc3-47ab-807d-279833ddd43b.jpg?v=1595194105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This pretreatment acts as a primer. Only use if your humidity is high or the lashes feel oily</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575800721495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575794298967</id>
+    <published>2020-07-19T10:09:03-11:00</published>
+    <updated>2020-07-19T10:09:03-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-velvet-cashmere-mix-trays"/>
+    <title>Eyelash Extensions - VELVET CASHMERE MIX TRAYS</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_2ee5edc7-502b-4950-b116-695ffc1a23c8.jpg?v=1595192954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don’t need all lengths in single trays? Simply buy a mixed tray</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>C / 0.03</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>C / 0.05</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>C / 0.07</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>CC / 0.03</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>CC / 0.05</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>CC / 0.07</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>D / 0.03</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>D / 0.05</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575794298967</id>
+      <title>D / 0.07</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575793152087</id>
+    <published>2020-07-19T10:04:50-11:00</published>
+    <updated>2020-07-19T10:04:50-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-velvet-cashmere-0-07-rich-black"/>
+    <title>Eyelash Extensions - VELVET CASHMERE 0.07 Rich Black</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_57d440ae-5aa1-4f11-9131-4afc7fcfc76e.jpg?v=1595192703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This line is replacing the silk lashes. Richer dark black. To die for.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>C / 0.07 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>CC / 0.07 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575793152087</id>
+      <title>D / 0.07 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575789187159</id>
+    <published>2020-07-19T09:48:16-11:00</published>
+    <updated>2020-07-19T09:48:16-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-velvet-cashmere-0-05"/>
+    <title>Eyelash Extensions - VELVET CASHMERE 0.05 Rich Black</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_c4b4a8f7-7420-4bac-880a-77eaa6b08520.jpg?v=1595192245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Cashmere line will replace the silk line. They are a dark rich matte black. Top Seller </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>C / 0.05 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>CC / 0.05 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 8mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 15mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575789187159</id>
+      <title>D / 0.05 / 16mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575784730711</id>
+    <published>2020-07-19T09:31:08-11:00</published>
+    <updated>2020-07-19T09:31:08-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/lash-accessories-pink-silicone-pad"/>
+    <title>Lash Accessories: Pink Silicone Pad</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_26923ae1-9857-4de1-8d41-ddeaa857b144.jpg?v=1595190672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Best seller. These pads are placed on tile (or forehead) and with their gentle curve you can grab beautiful fans every time. They are a game changer! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575784730711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575783059543</id>
+    <published>2020-07-19T09:25:10-11:00</published>
+    <updated>2020-07-19T09:25:10-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/micropore-green-tape"/>
+    <title>Lash Accessories: Micropore Green Tape</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_8f5d6825-df2c-48e1-80f6-3245d092e293.jpg?v=1595190314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is for the movers and shakers. More sticky. Good for oily clients. Best for taping top lids</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575783059543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4575778898007</id>
+    <published>2020-07-19T09:09:42-11:00</published>
+    <updated>2020-07-19T09:09:42-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/adhesive-storage"/>
+    <title>Adhesive Storage</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_42832220-23f2-45d9-83cf-1f7f376945f7.jpg?v=1595189387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Air tight storage for your adhesive. Can fit three bottles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4575778898007</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4572267741271</id>
+    <published>2020-07-15T09:36:07-11:00</published>
+    <updated>2020-07-15T09:36:07-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/lashpoo"/>
+    <title>Lashpoo</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_3d582aaf-4e13-4ebb-8203-3d8d687f5d95.jpg?v=1594845855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hotlashes Lashpoo shampoo is a new and improved cleanser for the natural lashes. Sell this to your clients to increase their lash retention, clean lashes with non-irritating ingredients and helping with natural lash nutrition. It also comes with a free brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4572267741271</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/4290769092695</id>
+    <published>2019-10-19T11:21:06-11:00</published>
+    <updated>2019-10-19T11:21:06-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-velvet-cashmere-0-03-rich-black"/>
+    <title>Eyelash Extensions - VELVET CASHMERE 0.03 Rich Black</title>
+    <s:type></s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_5a0b25bb-dfc9-42b9-be37-d96524aab97f.jpg?v=1571525233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are replacing the feather 0.03 lash line. They are a darker richer black and a curl to die for! You will fall in love with they way they fan</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 8mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 9mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 10mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 11mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 12mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 13mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 14mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 15mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>C / 0.03 / 16mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 8mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 9mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 10mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 11mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 12mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 13mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 14mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 15mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>CC / 0.03 / 16mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 8mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 9mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 10mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 11mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 12mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 13mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 14mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 15mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/4290769092695</id>
+      <title>D / 0.03 / 16mm</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1991039582295</id>
+    <published>2019-02-22T14:08:45-11:00</published>
+    <updated>2019-02-22T14:08:45-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/adhesive-solutions-addy-assist-glue-aid"/>
+    <title>Adhesive Solutions: Addy Assist GLUE AID</title>
+    <s:type>Eyelash Extension Adhesive</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_86cfccd3-f758-4148-a55f-a9d41f3f6d72.jpg?v=1550884145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Adhesive<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a game changer. This will assist your glue in having an awesome grab when you’re having issues with temperature and humidity. Simply take a microfiber brush and wipe it across the lash line on your tile and wait one minute. Your fans will be perfect and the glue will grab much better</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1991039582295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1968746496087</id>
+    <published>2019-02-09T14:38:13-11:00</published>
+    <updated>2019-02-09T14:38:13-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/adhesive-dark-sky-5ml-1"/>
+    <title>Adhesive: Dark Sky 5mL</title>
+    <s:type>Eyelash Extension Adhesive</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_5612c2b5-8325-424a-a36a-ed2ddfdc81f6.jpg?v=1550884533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Adhesive<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A revolutionary new adhesive that will knock your socks off. You will not be disappointed. 0.5 to 1 second drying glue. Instant grab</p>
+<p>We are so confident with this adhesive, we are giving hundreds of bottles away for free. We know you will love it as much as we do</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1968746496087</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1367466410071</id>
+    <published>2018-08-13T08:12:09-11:00</published>
+    <updated>2018-08-13T08:12:09-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/adhesive-exciting-new-product-launch-coming-soon"/>
+    <title>Adhesive: Dark Sky 10mL.  Outstanding revolutionary new adhesive on the market.</title>
+    <s:type>Eyelash Extension Adhesive</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_50f3a5a2-757b-403f-8fbb-85b1c77fe3e8.jpg?v=1550629425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Adhesive<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a revolutionary glue that we can confidently say is one of the best on the market. This glue is ultra fast drying half second to one second and the grab is on real.  Hang onto your hat’s ladies this is a game changer </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1367466410071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1367454744663</id>
+    <published>2018-08-13T07:55:05-11:00</published>
+    <updated>2018-08-13T07:55:05-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/lash-accessories-micropore-foam-tape"/>
+    <title>Lash Accessories: Micropore Foam Tape</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_04551f99-13d1-4b7d-a139-b9343bb63753.jpg?v=1534186508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1367454744663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1367447339095</id>
+    <published>2018-08-13T07:38:59-11:00</published>
+    <updated>2018-08-13T07:38:59-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/lash-accessories-micropore-kind-silicone-tape"/>
+    <title>Lash Accessories: Micropore Kind Silicone Tape</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_68d3171f-3d02-42ec-9af7-be60d02f0c3b.jpg?v=1534185544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> This is the newest and most popular tape for  lash extension application. It has the kindness of a gel pad and the stick of a firm robust tape. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1367447339095</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/1318369853527</id>
+    <published>2018-07-16T14:37:56-11:00</published>
+    <updated>2018-07-16T14:37:56-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/gold-series-tweezer-kit"/>
+    <title>Lash Tweezers: Gold Series Tweezer Kit</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_30e0a7d7-87f4-4632-87f3-31834bb69fba.jpg?v=1531791908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tweezers to die for! Three isolating tweezers and three curved tweezers including a J curl and a  45° angle curve </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/1318369853527</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/745245311063</id>
+    <published>2018-04-08T12:51:30-11:00</published>
+    <updated>2018-04-08T12:51:30-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-mega-mix-tray"/>
+    <title>Eyelash Extensions 0.03 MEGA Feather Thin MIX TRAY</title>
+    <s:type>Eyelash Extensions</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_281a02fc-eda9-43ba-a945-f7d564c33c3f.jpg?v=1523231530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extensions<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mega Volume Velvet Cashmere Mix Tray Lashes for advanced Mega Volume Lash Technicians. PLEASE NOTE: these are VERY FINE 0.03 feather lashes. For advanced artists. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745245311063</id>
+      <title>J / 0.03 / 9-15mm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745245311063</id>
+      <title>B / 0.03 / 9-15mm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745245311063</id>
+      <title>C / 0.03 / 9-15mm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745245311063</id>
+      <title>C+ / 0.03 / 9-15mm</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/745243082839</id>
+    <published>2018-04-08T12:23:25-11:00</published>
+    <updated>2018-04-08T12:23:25-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-mega-volume"/>
+    <title>Eyelash Extensions 0.03 MEGA  Feather Thin ONE LENGTH</title>
+    <s:type>Eyelash Extensions</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_1de97fce-faf6-456b-8956-55710e2cd3a5.jpg?v=1550629526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extensions<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere Velvet MEGA Volume Lashes are here and taking the world by storm! Deep rich black with 4 different curls and 7 different lengths. You will fall in love over and over. PLEASE NOTE THESE ARE FEATHER THIN 0.03 LASHES! For advanced lash technicians. These lashes have been discontinued and any remaining stock is sell off. No returns or exchanges on discontinued product</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 9mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 10mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 11mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 12mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 13mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 14mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>J / 15mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 9mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 10mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 11mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 12mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 13mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 14mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>B / 15mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C / 9mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C / 14mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C / 15mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C+ / 13mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C+ / 14mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/745243082839</id>
+      <title>C+ / 15mm / 0.03</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/413596909600</id>
+    <published>2017-11-24T10:55:28-11:00</published>
+    <updated>2017-11-24T10:55:28-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/mascara-wands"/>
+    <title>Lash Accessories: Mascara Wands</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Eyelash Extension Supplies &amp; Training</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_3ed71de9-7934-4f1a-b3d7-da3d760f8dfa.jpg?v=1511560530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Eyelash Extension Supplies &amp; Training<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50 mascara wands per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/413596909600</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/6631119687</id>
+    <published>2017-03-27T04:09:47-11:00</published>
+    <updated>2017-03-27T04:09:47-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/nanomister"/>
+    <title>Lash Accessories: Nanomister</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_87b768c1-bb74-431e-bfa2-6456a2adaed1.jpg?v=1490627746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A Nanomister is an essential tool for Expert Eyelash Extension Artists.  The Nanomister is designed to speed up the process of drying and cure the eyelash extension adhesive. It is a miracle worker! The nano mister sprays very small water droplets to help this reaction happen evenly throughout the lashes. It helps dry each individual layer faster and completely as you put on the lashes, so we recommend that you use the nano mister on your clients throughout the lash application process. This helps eliminate any burning sensation and a lot of irritation that may take place during the appointment or afterward.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Extension Dryer</s:tag>
+    <s:tag>Nano mister</s:tag>
+    <s:tag>Nanomister</s:tag>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/6631119687</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/9290295751</id>
+    <published>2016-10-27T17:01:00-11:00</published>
+    <updated>2016-10-27T17:01:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-vibrant-color-lashes-indigo-purple-mix-length"/>
+    <title>Eyelash Extensions - Vibrant color lashes INDIGO PURPLE MIX LENGTH</title>
+    <s:type>Eyelash Extensions</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_c55e7a4d-0ff8-4ab8-a002-4338edecc93b.jpg?v=1490721084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extensions<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple love!!!! Such an amazing addition to volume lashing!</p>
+<p> </p>
+<p>All trays are mixed length</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/9290295751</id>
+      <title>C / .10mm</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/9290295751</id>
+      <title>D / .10mm</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/9290290951</id>
+    <published>2016-10-27T16:58:00-11:00</published>
+    <updated>2016-10-27T16:58:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/eyelash-extensions-vibrant-color-lashes-bold-blue"/>
+    <title>Eyelash Extensions - Vibrant color lashes BOLD BLUE MIX LENGTHS</title>
+    <s:type>Eyelash Extensions</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_ce800f0d-93f1-4ec9-99b3-922f2d3fc595.jpg?v=1490721055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extensions<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>They are here! the coolest lashes! Volume thicknesses only</p>
+<p> </p>
+<p>Each tray is mixed lengths</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/9290290951</id>
+      <title>C / .10mm</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/9290290951</id>
+      <title>D / .10mm</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/9290281287</id>
+    <published>2016-10-27T16:49:00-11:00</published>
+    <updated>2016-10-27T16:49:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/hotlashes-mascara"/>
+    <title>Lash Accessories: Hotlashes Mascara</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/IMG_8672.jpg?v=1490721480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you waiting for your next appointment and need a top up? Offer mascara to your clients! Easy to wash off, made for eyelash extensions. </p>
+<p class="p1"><span class="s1">Washable volume mascara. No remover. Volume up! Charming curl. This mascara removed easily with warm water and is much resistance. This mascara makes your eyelash extensions look longer.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/9290281287</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/7596284487</id>
+    <published>2016-07-03T16:57:00-11:00</published>
+    <updated>2016-07-03T16:57:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/super-hot-silk-eyelash-extensions-one-length-per-tray"/>
+    <title>Eyelash Extensions: Stylish Silk 16 lines -  One Length</title>
+    <s:type>Eyelash Extensions</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/image_73414a43-7fde-482f-95fd-7d7054aed6f8.jpg?v=1549763853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extensions<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish Silk Eyelash Extensions are fabulous for the client who likes thicker eyelash extensions with lots of volume.  Our silk lashes are slightly glossier than the mink lashes </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .07mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .07mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .15mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .07mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .07mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .15mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .15mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .15mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .15mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .18mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .18mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .18mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .18mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .18mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .05mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .05mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .05mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .05mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .05mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .07mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .10mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .10mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .10mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .10mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .10mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .15mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .15mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .15mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .15mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .15mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .18mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .18mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .18mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .18mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .18mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .20mm / 9mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .20mm / 10mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .20mm / 11mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .20mm / 12mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>D / .20mm / 13mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .15mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .18mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .20mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .07mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .20mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .10mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .07mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>C / .05mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .05mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/7596284487</id>
+      <title>CC / .10mm / 14mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/6631876551</id>
+    <published>2016-05-17T18:45:00-11:00</published>
+    <updated>2016-05-17T18:45:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/magnifying-glasses"/>
+    <title>Lash Accessories: Magnifying Glasses</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/magnifiers.jpg?v=1463553408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LED Adjustable Light<br> Adjustable head band<br> Batteries and Lens Case Included<br> Easy snap on/off magnifying lenses<br> Easy on/off Switch<br>4 interchangeable lenses</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash extension magnifier</s:tag>
+    <s:tag>lash magnifiers</s:tag>
+    <s:tag>magnifying glasses</s:tag>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/6631876551</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.hotlashes.ca/products/6631649735</id>
+    <published>2016-05-17T18:45:00-11:00</published>
+    <updated>2016-05-17T18:45:00-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.hotlashes.ca/products/microfibre-brushes"/>
+    <title>Lash Accessories: Microfibre Brushes</title>
+    <s:type>Eyelash Extension Tools</s:type>
+    <s:vendor>Hotlashes Expert Eyelash Extension Stockist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1249/1133/products/Microfibre_Brushes.jpg?v=1463551988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hotlashes Expert Eyelash Extension Stockist<br>
+        <strong>Type: </strong>Eyelash Extension Tools<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="description" class="full-width">
+<p><span style="border: 0px; margin: 0px; padding: 0px; color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Lint-Free Microfibre Brushes help you apply small amounts of eyelash extension primer or remover to your client's eyes. Each lint-free tip applies a small amount of product without any waste. 100 </span><span style="border: 0px; margin: 0px; padding: 0px; color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Micro Brushes per container in order</span></p>
+<ul>
+<li><span color="#2c2b2b" face="Trebuchet MS, Arial, Helvetica, sans-serif" style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;"><span style="caret-color: #2c2b2b;">100 per package</span></span></li>
+<li><span style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Lint-Free</span></li>
+<li><span style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Non-Absorbent</span></li>
+<li><span style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Suspends solutions as fine as 1/8 of a drop without dripping</span></li>
+<li><span style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">For use with sealants, primers, and removers</span></li>
+<li><span style="color: #2c2b2b; font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;">Disposable applicator</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash extension swab</s:tag>
+    <s:tag>lint-free swab</s:tag>
+    <s:tag>microfibre brushes</s:tag>
+    <s:variant>
+      <id>https://www.hotlashes.ca/products/6631649735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
